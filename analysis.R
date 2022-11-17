@@ -4,5 +4,9 @@ library(crimes)
 #november's work
 
 #Hi Gabriel, please accept my changes :)))
-#Oh lawd, he commin!
-#*Merge Error has entered the chat*
+
+#ok now i make an edit
+Important_Math <- 2*2
+str(Important_Math)
+WaitNo <- as.character(Important_Math)
+WaitNo
